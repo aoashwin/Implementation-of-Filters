@@ -171,29 +171,29 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
-![dip-6-2](https://user-images.githubusercontent.com/75235601/167667847-3c08786f-8cbc-4054-8f5a-803ece834f03.jpg)
+</br>![dip-6-2](https://user-images.githubusercontent.com/75235601/167667847-3c08786f-8cbc-4054-8f5a-803ece834f03.jpg)
 
 ii) Using Weighted Averaging Filter
-![dip-6-3](https://user-images.githubusercontent.com/75235601/167667966-3e309de6-f22c-4b67-ac30-7dcf5b888812.jpg)
+</br>![dip-6-3](https://user-images.githubusercontent.com/75235601/167667966-3e309de6-f22c-4b67-ac30-7dcf5b888812.jpg)
 
 
 iii) Using Gaussian Filter
-![dip-6-4](https://user-images.githubusercontent.com/75235601/167668346-42c373fc-d296-42cd-816c-b54890bb25c7.jpg)
+</br>![dip-6-4](https://user-images.githubusercontent.com/75235601/167668346-42c373fc-d296-42cd-816c-b54890bb25c7.jpg)
 
 
 iv) Using Median Filter
-![dip-6-5](https://user-images.githubusercontent.com/75235601/167668395-1362c9c9-f01b-40f3-83f1-f8b1b61fe313.jpg)
+</br>![dip-6-5](https://user-images.githubusercontent.com/75235601/167668395-1362c9c9-f01b-40f3-83f1-f8b1b61fe313.jpg)
 
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
-![dip-6-6](https://user-images.githubusercontent.com/75235601/167668457-b2edb15b-199d-4c4c-abd2-6647e4e06652.jpg)
+</br>![dip-6-6](https://user-images.githubusercontent.com/75235601/167668457-b2edb15b-199d-4c4c-abd2-6647e4e06652.jpg)
 
 
 ii) Using Laplacian Operator
-![dip-6-7](https://user-images.githubusercontent.com/75235601/167668499-142e54e3-a883-42a4-82de-655ac1b35149.jpg)
+</br>![dip-6-7](https://user-images.githubusercontent.com/75235601/167668499-142e54e3-a883-42a4-82de-655ac1b35149.jpg)
 
 
 ## Result:
